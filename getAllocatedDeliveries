@@ -1,0 +1,54 @@
+[
+   {
+      "CREATE_DATE":"2020-02-12 22:41:15",
+      "AWB_CONSIGNMENT_NO":"AZTX500098",
+      "PICKD_PICK_ORDER1":"11NC0060O",
+      "P_ADDRESS_LINE1":"Level 5, 64 Northbourne Ave",
+      "P_ADDRESS_LINE2":"CANBERRA CITY",
+      "P_CITY":"ParramattaA",
+      "P_POST_CODE":"2150",
+      "PICKD_PALLET_QTY":0,
+      "PICKD_CARTON_QTY":0,
+      "PICKD_SATCHEL_QTY":1,
+      "TOTAL_PARCELS":"1"
+   },
+   {
+      "CREATE_DATE":"2020-02-13 23:52:40",
+      "AWB_CONSIGNMENT_NO":"33GM84503333",
+      "PICKD_PICK_ORDER1":"TEST0978",
+      "P_ADDRESS_LINE1":"Unit B",
+      "P_ADDRESS_LINE2":"STENNETT Rd",
+      "P_CITY":"INGLEBURN",
+      "P_POST_CODE":"2565",
+      "PICKD_PALLET_QTY":0,
+      "PICKD_CARTON_QTY":1,
+      "PICKD_SATCHEL_QTY":3,
+      "TOTAL_PARCELS":"4"
+   },
+   {
+      "CREATE_DATE":"2020-02-13 06:44:57",
+      "AWB_CONSIGNMENT_NO":"CPASVYC1000179",
+      "PICKD_PICK_ORDER1":"testserialscan5",
+      "P_ADDRESS_LINE1":"PO Box 9004",
+      "P_ADDRESS_LINE2":"test",
+      "P_CITY":"MAROUBRA",
+      "P_POST_CODE":"2035",
+      "PICKD_PALLET_QTY":0,
+      "PICKD_CARTON_QTY":1,
+      "PICKD_SATCHEL_QTY":5,
+      "TOTAL_PARCELS":"6"
+   },
+   {
+      "CREATE_DATE":"2020-02-13 07:16:54",
+      "AWB_CONSIGNMENT_NO":"CPASVYC1000180",
+      "PICKD_PICK_ORDER1":"testserialscan8",
+      "P_ADDRESS_LINE1":"PO Box 9004",
+      "P_ADDRESS_LINE2":"ttttsss",
+      "P_CITY":"MAROUBRA",
+      "P_POST_CODE":"2035",
+      "PICKD_PALLET_QTY":0,
+      "PICKD_CARTON_QTY":1,
+      "PICKD_SATCHEL_QTY":0,
+      "TOTAL_PARCELS":"1"
+   }
+]
